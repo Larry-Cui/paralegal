@@ -4,7 +4,7 @@ copyright: Copyright &copy; 2023 Larry Cui
 
 nav:
   - Family Law:
-      - Gift or Loan from Parent to Separating Children: family/joint.md
+      - Gift or Loan: family/giftorloan.md
   - About:
       - Why I Built this Site: index.md
 
@@ -39,10 +39,10 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-  language: zh
+  language: en
 
-  logo: jade_logo.png
-  favicon: jade_logo.png
+  logo: assets/img/profile.png
+  favicon: assets/img/a4.png
 
   features:
     # - navigation.instant # without fully reloading the page, fast loading function
