@@ -1,16 +1,6 @@
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+It's just passed 12am at midnight to turn to the first day of June, 2023. 
 
-## Commands
+Starting from 15 May 2025, I've been working at `Jade Sunrise Law` (previously called `Jade Summit Law`) for half month, and received my first salary in Canada. 
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
