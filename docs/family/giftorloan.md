@@ -4,4 +4,8 @@ This is a study note of an  :fontawesome-regular-file-pdf: [article](https://dri
 
 $x^2 + x + 1 = 0$
 
+$$
+c^2 = a^2 + b^2
+$$
+
 
