@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: A Paralegal's Study Notes
 site_url: https://.netlify.app/
 copyright: Copyright &copy; 2023 Larry Cui
 
@@ -6,7 +6,7 @@ nav:
   - Family Law:
       - Gift or Loan: family/giftorloan.md
   - About:
-      - Why I Built this Site: index.md
+      - Why I Built this Site: about/index.md
 
 theme:
   name: material
@@ -15,8 +15,8 @@ theme:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       # scheme: slate
-      primary: teal
-      accent: teal
+      primary: cyan
+      accent: cyan
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
@@ -24,8 +24,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: teal
+      primary: cyan
+      accent: cyan
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -33,8 +33,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: teal
+      primary: cyan
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
