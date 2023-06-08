@@ -4,6 +4,7 @@ copyright: Copyright &copy; 2023 Larry Cui
 
 nav:
   - Family Law:
+      - Family Property: family/property.md
       - Gift or Loan: family/giftorloan.md
   - About:
       - Why I Built this Site: index.md
