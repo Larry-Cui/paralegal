@@ -1,8 +1,9 @@
-site_name: A Paralegal's Study Notes
-site_url: https://.netlify.app/
+site_name: Study Notes of a Legal Assistant
+site_url: https://paralegal.netlify.app/
 copyright: Copyright &copy; 2023 Larry Cui
 
 nav:
+  - Corporate:
   - Family Law:
       - Family Property: family/property.md
       - Gift or Loan: family/giftorloan.md
