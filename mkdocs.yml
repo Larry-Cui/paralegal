@@ -4,6 +4,7 @@ copyright: Copyright &copy; 2023 Larry Cui
 
 nav:
   - Corporate:
+      - Types of Business Structure: corporate/types.md
   - Family Law:
       - Family Property: family/property.md
       - Gift or Loan: family/giftorloan.md
