@@ -10,6 +10,7 @@ nav:
       - Gift or Loan: family/giftorloan.md
   - About:
       - Why I Built this Site: index.md
+      - A New Policy: about/newpolicy.md
 
 theme:
   name: material
