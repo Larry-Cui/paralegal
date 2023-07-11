@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://paralegal.netlify.app/</loc>
+         <lastmod>2023-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://paralegal.netlify.app/about/newpolicy/</loc>
+         <lastmod>2023-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://paralegal.netlify.app/corporate/types/</loc>
+         <lastmod>2023-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://paralegal.netlify.app/family/giftorloan/</loc>
+         <lastmod>2023-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://paralegal.netlify.app/family/property/</loc>
+         <lastmod>2023-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
